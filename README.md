@@ -12,4 +12,4 @@ Me llamo Zamira
 - Salir a Leer
 
 ## Master of Programming 
-![PRG](Master Programming.mp4)
+![Image](Master Programming.mp4)
