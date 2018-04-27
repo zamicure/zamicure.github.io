@@ -1,5 +1,3 @@
-# ZAMIRA CURE VILLACIS
-
 ## Sobre mi
 
 Me llamo Zamira
@@ -9,7 +7,5 @@ Me llamo Zamira
 - Bailar
 - Leer
 - Cocinar
-- Salir a Leer
+- Salir a Comer
 
-## Master of Programming 
-![Image](Master Programming.mp4)
