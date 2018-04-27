@@ -9,3 +9,5 @@ Me llamo Zamira
 - Cocinar
 - Salir a Comer
 
+## Un poco de mi 
+![Image](url)
